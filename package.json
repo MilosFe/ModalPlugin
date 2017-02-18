@@ -1,0 +1,25 @@
+{
+  "name": "modalplugin",
+  "version": "1.0.0",
+  "description": "modal plugin for project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TensaZangetsu/ModalPlugin.git"
+  },
+  "keywords": [
+    "modal",
+    "plugin",
+    "javascript",
+    "vanillajs"
+  ],
+  "author": "Radoman Milos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TensaZangetsu/ModalPlugin/issues"
+  },
+  "homepage": "https://github.com/TensaZangetsu/ModalPlugin#readme"
+}
