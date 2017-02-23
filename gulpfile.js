@@ -45,7 +45,7 @@ gulp.task('nodemon', function (cb) {
 
 gulp.task('sass', function () {
     //noinspection JSUnusedGlobalSymbols
-    return gulp.src('app/scss/style.scss')
+    return gulp.src('app/scss/main.scss')
         .pipe(plumber({
             handleError: function (err) {
                 console.log(err);
